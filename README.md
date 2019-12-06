@@ -3,3 +3,5 @@
 the proyect will include:
 * Workshops
 * Test
+* Bugs
+* Commits
